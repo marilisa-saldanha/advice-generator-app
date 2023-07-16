@@ -63,7 +63,7 @@ a {
   font-size: .75rem;
 }
 
-.card .cardContent h2 {
+.card .cardContent h1 {
   color: var(--light-cyan);
   font-size: 1.75rem;
   text-align: center;

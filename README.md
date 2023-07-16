@@ -14,8 +14,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL]()
-- [Live Site URL]()
+- [Solution URL](https://www.frontendmentor.io/solutions/advice-generator-app-using-html-css-and-javascript-xyeICsqXDp)
+- [Live Site URL](https://marilisa-saldanha.github.io/advice-generator-app/)
 
 ## My process
 
